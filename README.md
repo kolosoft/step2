@@ -1,2 +1,2 @@
-# step2
+# Step 2
 Hotel Rooms Search Layouts
