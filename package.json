@@ -1,0 +1,9 @@
+{
+  "name": "step2",
+  "version": "1.0.0",
+  "description": "Hotel Rooms Search Layouts",
+  "main": "index.js",
+  "repository": "https://github.com/kolosoft/step2",
+  "author": "kolosoft <kolosoft@gmail.com>",
+  "license": "MIT"
+}
